@@ -1,8 +1,7 @@
-## Contact Me:
+## 👋 Contact Me:
 - <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" title="LinkedIn" href="https://www.linkedin.com/in/ferreira-pedro/">
 
-### 👋
-## About Me:
+## 🙋 About Me:
 
 I'm Pedro, enrolled in Computer Science at Universidade Federal de Alagoas, third semester. Currently I'm working in a Scientific Initiation (PIBIC) developing a Data Lake that absorbs data generated from IoT devices, one of my functions is to develop the data pipeline (Airflow, Kafka and Python) and the cluster (Couchbase Server). I'm looking for an opportunity to work in a project I believe and learn experience doing the <s title="loses only to cycling 😄🚴">*second*</s> thing I love most: coding.  
 
